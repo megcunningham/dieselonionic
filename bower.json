@@ -1,0 +1,17 @@
+{
+  "name": "dieselonionic",
+  "version": "1.0.0",
+  "homepage": "https://github.com/megcunningham/dieselonionic",
+  "authors": [
+    "Meg Cunningham <meg_cunningham@live.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
